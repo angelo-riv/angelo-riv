@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Angelo Rivera
 
-<!--
-**angelo-riv/angelo-riv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Check out my Personal Website](https://angelo-rivera.com/) 
 
-Here are some ideas to get you started:
+🎓 **Mechatronics Engineering Student @ McMaster University**  
+💡 Passionate about building innovative solutions that blend **software**, **hardware**, and **AI** for real-world impact.  
+🤖 Active in robotics competitions, hackathons, 3D web experiences, and emerging tech projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🌐 3D Portfolio Website
+- Created an immersive **3D virtual island** using **Three.js** and **Blender**.
+- Visitors can explore a space that reflects my story, with interactive elements and animations.
+
+### 🧩 Devvy — Real-World Coding Challenge Platform
+- Built a **LeetCode-style platform** for solving real-world industry problems.
+- Features leaderboards, company-sponsored challenges, and backend auto-grading.
+
+### 🌊 RoboSub AUV Competition
+- Software team member for an **autonomous underwater vehicle** competing in RoboSub.
+- Developing control mechanisms for **thrusters**, **actuators**, and **object manipulation**.
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+Python, C++, JavaScript, SQL
+
+**Frameworks & Tools:**  
+**React**, **Node.js**, **FastAPI**, **Supabase**, **AWS**  
+**Autodesk Inventor**, **Three.js**, **Blender**, **Figma**
+**SOLIDWORKS**, **Granta**, **Arduino**, **Matlab**, **Figma**
+
+**Areas of Interest:**  
+- Autonomous Robotics  
+- 3D Model Development  
+- AI and Computer Vision  
+- Cloud Integration  
+- Building anything
+
+---
+
+## 📈 What I'm Working On
+
+- Expanding my **3D portfolio** to include game-like interactions and easter eggs.
+- Developing an end-to-end full scale **startup** application .
+- Exploring **AI-powered debate tools** and interactive learning apps for students.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/angelo-rivera-526024226/)
+- [Personal Website](https://angelo-rivera.com/) 
+- [GitHub](https://github.com/angelo-riv) 
+
+Let’s build something amazing together! ✨
