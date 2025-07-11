@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Angelo Rivera
 
-[Check out my Personal Website](https://angelo-rivera.com/) 
+[Check out my Personal Website](https://angelo-rivera.com/) (Use your laptop for a premium experience)
 
 🎓 **Mechatronics Engineering Student @ McMaster University**  
 💡 Passionate about building innovative solutions that blend **software**, **hardware**, and **AI** for real-world impact.  
